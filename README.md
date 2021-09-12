@@ -1,8 +1,8 @@
 👋 Hi!
 
-I’ve been building websites for more than 4 years now and I still enjoy it. 
-
 I’m first and foremost a Developer, but also a Designer.
+
+I’ve been building websites for more than 4 years now and I still enjoy it. 
 
 Working at <a href = "https://ffcfoundationph.com/">GMA Faith Family Foundation Inc.</a> as a volunteer Web Master.
 
