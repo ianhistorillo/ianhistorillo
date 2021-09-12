@@ -4,7 +4,7 @@ I’ve been building websites for more than 4 years now and I still enjoy it.
 
 I’m first and foremost a Developer, but also a Designer.
 
-Working at GMA Faith Family Foundation Inc. as a volunteer Web Master.
+Working at <a href = "https://ffcfoundationph.com/">GMA Faith Family Foundation Inc.</a> as a volunteer Web Master.
 
 Working as a full time PHP and WordPress Developer and recently engaged in React JS and other Javascript libraries.
 
