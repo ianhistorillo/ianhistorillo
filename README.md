@@ -6,7 +6,7 @@ I’ve been building websites for more than 4 years now and I still enjoy it.
 
 Working at <a href = "https://ffcfoundationph.com/">GMA Faith Family Foundation Inc.</a> as a volunteer Web Master.
 
-Working as a full time PHP and WordPress Developer and recently engaged in React JS and other Javascript libraries.
+Working as a full time React JS / PHP Developer and recently engaged in WordPress and other CMS.
 
 Aiming to learn more on AWS and get certified.
 
