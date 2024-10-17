@@ -2,15 +2,15 @@
 
 I’m first and foremost a Developer, but also a Designer.
 
-I’ve been building websites for more than 6 years now and I still enjoy it. 
+I’ve been building websites for more than 7 years now and I still enjoy it. 
 
-Working at <a href = "https://ffcfoundationph.com/">GMA Faith Family Foundation Inc.</a> as a volunteer Web Master.
+<!--Working at <a href = "https://ffcfoundationph.com/">GMA Faith Family Foundation Inc.</a> as a volunteer Web Master. -->
 
-Working as a full time React JS / PHP Developer and recently engaged in WordPress and other CMS.
+I'm working as a full time full stack developer and recently engaged in React/React Native, Redux, Symfony and Google cloud services.
 
 Aiming to learn more on AWS and get certified.
 
-- 🌱 I’m currently learning React, React Native and AWS.
+- 🌱 I’m currently learning Typescript, Microservices, Node JS, React Native and AWS.
 - 👀 I’m interested in new technologies, MOBA and FPS games and last but not the least - Music.
 - 📫 How to reach me: ian.webworks@gmail.com
 
